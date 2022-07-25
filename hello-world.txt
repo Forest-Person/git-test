@@ -1,1 +1,5 @@
-hello odin that shining diamond
+﻿hello odin that shining diamond
+
+this is another test just trying to understand the whole thing that is happening here
+
+wow you know it seems that atomic commits is a really good way to go
